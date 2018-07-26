@@ -16,7 +16,7 @@ heart rate: the number of times the user’s heart beats
 ### user related features
 user id: the number of the user
 
-user gender: the gender of the user
+user gender: the gender of the user(user1 and user7 are female, and the others are male)
 ### context
 timestamp: the time when the user data is recorded
 
